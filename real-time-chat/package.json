@@ -1,0 +1,7 @@
+{
+  "_id": "65123456789abcdef",
+  "sender": "Alice",
+  "message": "Hello!",
+  "room": "General",
+  "timestamp": "2025-10-10T10:30:00.000Z"
+}
